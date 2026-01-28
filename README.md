@@ -33,4 +33,4 @@
 - [ ] **Custom Limits**: Allow users to choose how many tracks to generate.
 
 ---
-<p align="right">(<a href="#-weatherflow-mix-spotify-discovery-tool"></a>)</p>
+<p align="right">(<a href="#-weatherflow-mix-spotify-discovery-tool"></p>
