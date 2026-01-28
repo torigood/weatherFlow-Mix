@@ -1,0 +1,9 @@
+.cache
+.venv/
+.env
+app.py
+auth.py
+appforLocal.py
+.cache
+__pycache__/
+*.pyc
