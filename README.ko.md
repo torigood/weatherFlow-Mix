@@ -20,7 +20,7 @@
 - **라이브러리**: [Spotipy](https://spotipy.readthedocs.io/)
 - **배포**: Streamlit Cloud
 
-- Linke: [WeatherFlowMix](https://weatherflowmix.streamlit.app/)
+- Link: [WeatherFlowMix](https://weatherflowmix.streamlit.app/)
   
 ## 향후 업데이트 계획 (Roadmap)
 - [ ] **실시간 날씨 연동**: 사용자의 지역 날씨(기온, 강수 등)에 맞춰 플레이리스트 분위기 최적화.
