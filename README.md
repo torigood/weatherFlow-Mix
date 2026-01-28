@@ -25,6 +25,7 @@
 - **Framework**: [Streamlit](https://streamlit.io/)
 - **API Library**: [Spotipy](https://spotipy.readthedocs.io/)
 - **Deployment**: Streamlit Cloud
+- Link: [WeaterFlowMix](https://weatherflowmix.streamlit.app/)
 
 ## Roadmap (Coming Soon)
 - [ ] **Real-time Weather Integration**: Adjusting the playlist mood based on your local weather (Temperature, Precipitation, etc.).
@@ -32,5 +33,3 @@
 
 ---
 <p align="right">(<a href="#-weatherflow-mix-spotify-discovery-tool">Back to top</a>)</p>
-
-- Link: [WeaterFlowMix](https://weatherflowmix.streamlit.app/)
