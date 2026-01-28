@@ -25,6 +25,7 @@
 - **Framework**: [Streamlit](https://streamlit.io/)
 - **API Library**: [Spotipy](https://spotipy.readthedocs.io/)
 - **Deployment**: Streamlit Cloud
+  
 - Link: [WeaterFlowMix](https://weatherflowmix.streamlit.app/)
 
 ## Roadmap (Coming Soon)
@@ -32,4 +33,4 @@
 - [ ] **Custom Limits**: Allow users to choose how many tracks to generate.
 
 ---
-<p align="right">(<a href="#-weatherflow-mix-spotify-discovery-tool">Back to top</a>)</p>
+<p align="right">(<a href="#-weatherflow-mix-spotify-discovery-tool"></a>)</p>
