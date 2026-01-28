@@ -13,11 +13,13 @@
 ## Overview
 **WeatherFlow Mix** is a personalized discovery tool for Spotify users. Instead of repeating the same tracks, it explores the discography of artists you already love to find fresh tracks you might have missed.
 
+> **Note**: Current version focuses on artist-based discovery. Weather-based curation is in development.
+
 ## Current Features
-- **Top 50 Analysis**: Analyzes your Top 50 tracks (medium term) to identify your favorite artists.
-- **Deep Dive Discovery**: Fetches the "Top Tracks" from each of those artists.
-- **Smart Filtering**: Automatically excludes your current Top 50 tracks to ensure you only get "new-to-you" music.
-- **30-Track Curation**: Randomly selects 30 unique songs and updates them to a dedicated `WeatherFlow Mix` playlist in your library.
+- **Smart Artist Mining**: Identifies artists from your **Top 50** recently played tracks.
+- **Deep Discovery**: Scans for "Top Tracks" of those artists that you haven't listed in your Top 50.
+- **Auto-Curation**: Shuffles and picks **30 fresh tracks** to keep your library exciting.
+- **Seamless Sync**: Automatically updates your `WeatherFlow Mix` playlist on Spotify.
 
 ## Tech Stack
 - **Framework**: [Streamlit](https://streamlit.io/)
