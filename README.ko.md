@@ -20,11 +20,11 @@
 - **라이브러리**: [Spotipy](https://spotipy.readthedocs.io/)
 - **배포**: Streamlit Cloud
 
+- Linke: [WeatherFlowMix](https://weatherflowmix.streamlit.app/)
+  
 ## 향후 업데이트 계획 (Roadmap)
 - [ ] **실시간 날씨 연동**: 사용자의 지역 날씨(기온, 강수 등)에 맞춰 플레이리스트 분위기 최적화.
 - [ ] **생성 개수 조절**: 사용자가 원하는 곡 수만큼 플레이리스트 구성 기능 추가.
 
 ---
-<p align="right">(<a href="#-weatherflow-mix-스포티파이-곡-추천-도구">상단으로 이동</a>)</p>
-
-- Linke: [WeatherFlowMix](https://weatherflowmix.streamlit.app/)
+<p align="right"><a href="#-weatherflow-mix-스포티파이-곡-추천-도구"></p>
