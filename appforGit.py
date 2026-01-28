@@ -39,7 +39,7 @@ def get_spotify_client():
     if 'token_info' in st.session_state:
         return spotipy.Spotify(auth=st.session_state['token_info']['access_token'])
     
-    # If no token, provide auth URL
+    # 
     auth_url = auth_manager.get_authorize_url()
     return None, auth_url 
 
