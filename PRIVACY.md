@@ -8,5 +8,5 @@ personal information.
 - Authentication handled entirely by Spotify
 - Users must re-authenticate each session
 
-Contact: [your email]
-Last updated: [date]
+Contact: [kwansik.kim2004@gmail.com]
+Last updated: [Jan 28, 2026]
