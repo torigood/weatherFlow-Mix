@@ -32,5 +32,18 @@
 - [ ] **Real-time Weather Integration**: Adjusting the playlist mood based on your local weather (Temperature, Precipitation, etc.).
 - [ ] **Custom Limits**: Allow users to choose how many tracks to generate.
 
+## Data Usage:
+- No server-side storage
+- No database
+- All authentication happens client-side
+- Users must re-login on refresh (no session persistence)
+- Only uses Spotify API to read user preferences and 
+  create playlists
+
+## Privacy Policy:
+We don't collect or store any personal data. All Spotify 
+authentication is handled directly by Spotify's OAuth. 
+No user information is saved on our servers.
+
 ---
 <p align="right"><a href="#-weatherflow-mix-spotify-discovery-tool"></p>
